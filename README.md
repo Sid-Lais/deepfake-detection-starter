@@ -224,18 +224,15 @@ Only add clips you recorded yourself or whose licence allows public redistributi
 
 ## Screenshots
 
-| Step | Desktop | Mobile |
-|---|---|---|
-| Home, light | ![Home, desktop, light](docs/screenshots/home-desktop-light.png) | ![Home, mobile, light](docs/screenshots/home-mobile-light.png) |
-| Home, dark | ![Home, desktop, dark](docs/screenshots/home-desktop-dark.png) | ![Home, mobile, dark](docs/screenshots/home-mobile-dark.png) |
-| Result | ![Result, desktop, dark](docs/screenshots/step3-result-desktop-dark.png) | ![Result, mobile, light](docs/screenshots/step3-result-mobile-light.png) |
+| Desktop | Mobile |
+|---|---|
+| ![Home, desktop](docs/screenshots/home-desktop-light.png) | ![Home, mobile](docs/screenshots/home-mobile-light.png) |
 
-The flow in three steps, and the error state for an unsupported file:
+The flow, from choosing a clip to the result list, and the error state for an unsupported file:
 
 ![Step 1, choose a clip](docs/screenshots/step1-choose-ready.png)
 ![Step 2, analysing](docs/screenshots/step2-analysing.png)
-![Step 3, result](docs/screenshots/step3-result-desktop-light.png)
-![Result pill above the footer](docs/screenshots/result-pill-above-footer.png)
+![Result windows and the New clip pill](docs/screenshots/result-pill-above-footer.png)
 ![Error, unsupported file](docs/screenshots/error-bad-file.png)
 
 ## Project structure
